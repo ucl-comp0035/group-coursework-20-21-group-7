@@ -162,3 +162,7 @@ dmypy.json
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+# PyCharm
+.idea/
+
+
