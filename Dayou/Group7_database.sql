@@ -1,4 +1,4 @@
--- Group 7 Database Design by Dayou Chen
+-- Group 7 Database Design by Dayou Chenn
 -- For storing user data
 
 create table Student
