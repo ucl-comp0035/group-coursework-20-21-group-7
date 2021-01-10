@@ -1,5 +1,5 @@
 '''
-Name: Xuantong Lu
+Name: Xuantong Lu Make A Change!!!
 Purpose: (RegisteredUser class from UML Class)
 Instance variables: (userID: user ID, password: password, registerDate:
 register Date)
