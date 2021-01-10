@@ -1,7 +1,7 @@
 '''
-Name: Zhilong Song
+Name: Zhilong Song（18001152）
 Purpose: (Provide agency details, use superlink to switch pages , shown in UML Class)
-Instance variables: (agencyName, contactNumber, superlink, address, imageLink)
+Instance varLoniables: (agencyName, contactNumber, superlink, address, imageLink)
 Methods: ( __repr__: display Agency details,__image__:display image with superlink ,UpdateAd:Update details)
 '''
 class Advertisement():
