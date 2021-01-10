@@ -1,5 +1,5 @@
 import unittest
-from comment import Comment
+from Comment_Class import Comment
 comm = Comment(10, 20210111, '666')
 
 
