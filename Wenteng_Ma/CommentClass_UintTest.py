@@ -1,3 +1,6 @@
+# Name: Wenteng Ma (18042694)
+# Unittest for comment class
+
 import unittest
 from Comment_Class import Comment
 comm = Comment(10, 20210111, '666')
