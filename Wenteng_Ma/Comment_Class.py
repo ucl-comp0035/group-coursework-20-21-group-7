@@ -5,7 +5,7 @@ class Comment():
         self.__StudentID = StudentID
         self.__Time = Time
         self.__Content = Content
-        self.__DbName = '.../Group7_database.sqlite'
+        self.__DbName = '../Group7_database.sqlite'
 
     def postComment(self):
         '''write to DB'''
