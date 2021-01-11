@@ -1,6 +1,6 @@
 # Name: Wenteng Ma (18042694)
 # Class: Comment Class
-
+# add comment
 import sqlite3
 
 class Comment():
