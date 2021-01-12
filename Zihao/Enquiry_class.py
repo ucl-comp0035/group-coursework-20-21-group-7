@@ -30,7 +30,7 @@ As Enquiry is at the behind of User from UML class diagram, I attached class of 
 '''
 
 '''
-Name: Zihao Du
+Name: Zihao Du  18016926
 Purpose: (Enquiry class inherit from the User class and extend it by getting users' preference ) 
 Instance variables: (visitDate: visit Date,  ipAddress: ip address, userID: user ID, enquiryTime: float) 
 Methods: (enquiryByOccupation: enable user to select interested occupation
