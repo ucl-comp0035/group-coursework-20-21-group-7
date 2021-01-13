@@ -1,6 +1,7 @@
 import RegisteredUserClass
 
 '''
+Student name: Dayou Chen
 Purpose: Inherit from the RegisteredUser Class, contains Customer information
 Instance variables: (userID: user ID, password: password, registerDate: 
 registered date, firstName: first name, lastName: last name, email: email, age: age)
